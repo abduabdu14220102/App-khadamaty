@@ -1,0 +1,6 @@
+{
+  "name": "خدماتي",
+  "description": "خدماتي - المساعد الذكي لشبكات المحمول في مصر وقارئ كروت الشحن أوفلاين فائق الدقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
